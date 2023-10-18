@@ -1,3 +1,6 @@
+![image](https://github.com/Miracle-omosede/Interior-decoration/assets/69160847/f9467d36-2a9b-4204-8de8-0d6fc819046c)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
