@@ -15,6 +15,7 @@ body.loading {
         width: 400px;
         left: 16%;
         bottom: 14%;
+        z-index: 999;
         @media (max-width: $layout-breakpoint-xsmall) {
           left: 4%;
           bottom: 28%;
